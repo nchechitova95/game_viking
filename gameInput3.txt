@@ -1,0 +1,8 @@
+Island1 South=Island2 East=Island3 
+Island2 North=Island1 South=Island2
+Island3 West=Island1 East=Island8
+Island4 East=Island5 West=Island7
+Island5 North=Island6 West=Island4
+Island6 South=Island5 North=Island8
+Island7 North=Island2 East=Island4
+Island8 West=Island3 South=Island1
